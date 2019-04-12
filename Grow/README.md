@@ -1,10 +1,11 @@
 Please review describtions below and review screenshots. 
 
-<img width="1680" alt="Grow_1" src="https://user-images.githubusercontent.com/9397059/56062855-c325d180-5d3b-11e9-8b0e-dd938365e728.png">
+
+<img width="1680" alt="Grow_1" src="https://user-images.githubusercontent.com/9397059/56063583-ae4a3d80-5d3d-11e9-8fe7-d0e78db070eb.png">
 <img width="1679" alt="Grow_2" src="https://user-images.githubusercontent.com/9397059/56062867-c7ea8580-5d3b-11e9-97a3-8ede19238e33.png">
 <img width="1680" alt="Grow_3" src="https://user-images.githubusercontent.com/9397059/56062876-cc16a300-5d3b-11e9-96f3-4318f58312ce.png">
-<img width="1680" alt="Grow_4" src="https://user-images.githubusercontent.com/9397059/56062880-d173ed80-5d3b-11e9-8a9d-7ded3574e71f.png">
-<img width="1680" alt="Grow_5" src="https://user-images.githubusercontent.com/9397059/56062885-d5077480-5d3b-11e9-96b4-c6c36e768a73.png">
+<img width="1680" alt="Grow_4" src="https://user-images.githubusercontent.com/9397059/56063585-af7b6a80-5d3d-11e9-9134-c77fe05eabf7.png">
+<img width="1675" alt="Grow_5" src="https://user-images.githubusercontent.com/9397059/56063586-b1452e00-5d3d-11e9-9e7f-996b3a1ab4ea.png">
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
