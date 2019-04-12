@@ -18,7 +18,7 @@ export default class Footer extends Component {
                     <div className="container">
                         <div className="row">
                             <div className="col text-center py-4 text-light">
-                                <h3>ReactLAB</h3>
+                                <h3>Grow Your Business</h3>
                                 <p>Copyright &copy; {new Date().getFullYear()}</p>
                                 <buttonToolbar>
                                     <Button
