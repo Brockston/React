@@ -1,3 +1,5 @@
+Please review describtions below and review screenshots. 
+
 <img width="1680" alt="Grow_1" src="https://user-images.githubusercontent.com/9397059/56062855-c325d180-5d3b-11e9-8b0e-dd938365e728.png">
 <img width="1679" alt="Grow_2" src="https://user-images.githubusercontent.com/9397059/56062867-c7ea8580-5d3b-11e9-97a3-8ede19238e33.png">
 <img width="1680" alt="Grow_3" src="https://user-images.githubusercontent.com/9397059/56062876-cc16a300-5d3b-11e9-96f3-4318f58312ce.png">
