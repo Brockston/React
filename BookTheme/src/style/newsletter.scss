@@ -1,0 +1,14 @@
+@import './global/index';
+
+.container {
+
+    button {
+        background: $primary;
+    }
+}
+
+@media(max-width: 728px) {
+    .mb-resp {
+        margin-bottom: 1rem;
+    }
+}
