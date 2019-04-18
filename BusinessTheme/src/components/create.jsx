@@ -26,8 +26,7 @@ export default class Create extends Component {
                         />
                     <div className="col-md-6">
                         <Image 
-                        src={createImg} alt="" className="img-fluid mb-3 rounded-circle" />
-                        {/* <img src={createImg} alt="" className="img-fluid mb-3 rounded-circle"/> */}
+                        src={createImg} alt="" className="img-fluid mb-3 rounded-circle" />{/* <img src={createImg} alt="" className="img-fluid mb-3 rounded-circle"/> */}
                       </div>
                     </div>
                 </div>

@@ -18,8 +18,7 @@ export default class Explore extends Component {
                         <div className="row">
                             <div className="col-md-6">
                               <Image 
-                                src={exploreImg} alt="" className="img-fluid mb-3 rounded-circle" />
-                                {/* <img src={createImg} alt="" className="img-fluid mb-3 rounded-circle"/> */}
+                                src={exploreImg} alt="" className="img-fluid mb-3 rounded-circle" /> {/* <img src={createImg} alt="" className="img-fluid mb-3 rounded-circle"/> */}
                             </div>
                             <FlexComponent
                             id="explore-section"
